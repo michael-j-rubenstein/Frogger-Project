@@ -1,7 +1,7 @@
 #####################################################################
 #
 #
-# Student: Michael Jordan Rubenstein, 1006901033
+# Student: Michael Jordan Rubenstein
 #
 #
 #
@@ -14,18 +14,6 @@
 # - Display width in pixels: 256
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 5 
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
-# 1. Easy - Display the number of lives remaining
-# 2. Hard - Make a second level that starts after first level
-# 3. Hard - Add powerup to scene, extra lives!!
-# 4. Hard - Display the player's score at the top of the screen (Binary representation - out of 15)
-#
-# Any additional information that the TA needs to know:
-# - It was very fun!!! Hope you will enjoy my game!! Have a great winter break!!
 #
 #####################################################################
 
